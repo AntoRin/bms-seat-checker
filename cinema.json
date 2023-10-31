@@ -1,0 +1,1930 @@
+{
+   "ShowDetails": [
+      {
+         "Date": "20221114",
+         "BMSOffers": null,
+         "Event": [
+            {
+               "EventTitle": "Love Today",
+               "EventDuration": "",
+               "ChildEvents": [
+                  {
+                     "Event_strIsDefault": "Y",
+                     "EventSyn": "",
+                     "EventRAT": "0",
+                     "EventSEQ": "50",
+                     "EventTrailer": "https://www.youtube.com/watch?v=FaQe8JFGdaM",
+                     "EventName": "Love Today - Tamil",
+                     "EventGenre": {
+                        "Drama": [],
+                        "GenreMeta": [],
+                        "Romantic": []
+                     },
+                     "ApplicableTimeFilters": [
+                        "tf2",
+                        "tf3",
+                        "tf4"
+                     ],
+                     "EventCensor": "UA",
+                     "EventGroup": "EG00342518",
+                     "EventCode": "ET00343241",
+                     "EventImageCode": "love-today-et00343241-1667476540",
+                     "EventDimension": "2D",
+                     "ShowTimes": [
+                        {
+                           "ShowDateTime": "202211141240",
+                           "CategoryRange": "",
+                           "Attributes": "ATMOS",
+                           "ApplicableTimeFilters": [
+                              "tf2"
+                           ],
+                           "MinPrice": "60.12",
+                           "UpdatedMinPrice": null,
+                           "SessionCopQuota": "0",
+                           "SessionCodFlag": "N",
+                           "CutOffDateTime": "202211141240",
+                           "ChildSeats": "N",
+                           "BestAvailableSeats": 0,
+                           "CutOffFlag": "1",
+                           "SessionCodQuota": "0",
+                           "SessionId": "13790",
+                           "BestBuy": "",
+                           "SessionCopFlag": "N",
+                           "Availability": "A",
+                           "AvailStatus": "",
+                           "ShowTime": "12:40 PM",
+                           "SessionPopUpDesc": "",
+                           "Categories": [
+                              {
+                                 "PercentAvail": "0",
+                                 "PriceCode": "0013",
+                                 "AdditionalData": "",
+                                 "CurPrice": "60.12",
+                                 "UpdatedPrice": null,
+                                 "AreaCatCode": "0000000005",
+                                 "AvailStatus": "",
+                                 "MaxSeats": "38",
+                                 "BestAvailableSeats": "0",
+                                 "SeatLayout": "Y",
+                                 "PriceDesc": "SPECIAL",
+                                 "SeatsAvail": "0",
+                                 "CategoryRange": "",
+                                 "intCategoryMaxTickets": "0"
+                              },
+                              {
+                                 "PercentAvail": "65",
+                                 "PriceCode": "0007",
+                                 "AdditionalData": "",
+                                 "CurPrice": "190.78",
+                                 "UpdatedPrice": null,
+                                 "AreaCatCode": "0000000004",
+                                 "AvailStatus": "",
+                                 "MaxSeats": "276",
+                                 "BestAvailableSeats": "0",
+                                 "SeatLayout": "Y",
+                                 "PriceDesc": "EXECUTIVE",
+                                 "SeatsAvail": "182",
+                                 "CategoryRange": "",
+                                 "intCategoryMaxTickets": "10"
+                              },
+                              {
+                                 "PercentAvail": "0",
+                                 "PriceCode": "0001",
+                                 "AdditionalData": "",
+                                 "CurPrice": "190.78",
+                                 "UpdatedPrice": null,
+                                 "AreaCatCode": "0000000002",
+                                 "AvailStatus": "",
+                                 "MaxSeats": "20",
+                                 "BestAvailableSeats": "0",
+                                 "SeatLayout": "Y",
+                                 "PriceDesc": "GOLD",
+                                 "SeatsAvail": "0",
+                                 "CategoryRange": "",
+                                 "intCategoryMaxTickets": "0"
+                              }
+                           ],
+                           "ShowDateCode": "20221114",
+                           "SessionUnpaidFlag": "N",
+                           "CoupleSeats": "N",
+                           "SessionUnpaidQuota": "0",
+                           "IsAtmosEnabled": "N",
+                           "MaxPrice": "190.78",
+                           "UpdatedMaxPrice": null,
+                           "Offers": null,
+                           "ApplicablePriceFilters": [
+                              "pf1",
+                              "pf2"
+                           ],
+                           "ShowTimeCode": "1240",
+                           "SessionSubTitle": "",
+                           "SessionSubTitleAcronym": ""
+                        },
+                        {
+                           "ShowDateTime": "202211141505",
+                           "CategoryRange": "",
+                           "Attributes": "ATMOS",
+                           "ApplicableTimeFilters": [
+                              "tf2"
+                           ],
+                           "MinPrice": "60.12",
+                           "UpdatedMinPrice": null,
+                           "SessionCopQuota": "0",
+                           "SessionCodFlag": "N",
+                           "CutOffDateTime": "202211141505",
+                           "ChildSeats": "N",
+                           "BestAvailableSeats": 0,
+                           "CutOffFlag": "1",
+                           "SessionCodQuota": "0",
+                           "SessionId": "13795",
+                           "BestBuy": "",
+                           "SessionCopFlag": "N",
+                           "Availability": "A",
+                           "AvailStatus": "",
+                           "ShowTime": "03:05 PM",
+                           "SessionPopUpDesc": "",
+                           "Categories": [
+                              {
+                                 "PercentAvail": "7",
+                                 "PriceCode": "0013",
+                                 "AdditionalData": "",
+                                 "CurPrice": "60.12",
+                                 "UpdatedPrice": null,
+                                 "AreaCatCode": "0000000005",
+                                 "AvailStatus": "",
+                                 "MaxSeats": "38",
+                                 "BestAvailableSeats": "0",
+                                 "SeatLayout": "Y",
+                                 "PriceDesc": "SPECIAL",
+                                 "SeatsAvail": "3",
+                                 "CategoryRange": "",
+                                 "intCategoryMaxTickets": "3"
+                              },
+                              {
+                                 "PercentAvail": "88",
+                                 "PriceCode": "0007",
+                                 "AdditionalData": "",
+                                 "CurPrice": "190.78",
+                                 "UpdatedPrice": null,
+                                 "AreaCatCode": "0000000004",
+                                 "AvailStatus": "",
+                                 "MaxSeats": "232",
+                                 "BestAvailableSeats": "0",
+                                 "SeatLayout": "Y",
+                                 "PriceDesc": "EXECUTIVE",
+                                 "SeatsAvail": "205",
+                                 "CategoryRange": "",
+                                 "intCategoryMaxTickets": "10"
+                              },
+                              {
+                                 "PercentAvail": "0",
+                                 "PriceCode": "0001",
+                                 "AdditionalData": "",
+                                 "CurPrice": "190.78",
+                                 "UpdatedPrice": null,
+                                 "AreaCatCode": "0000000002",
+                                 "AvailStatus": "",
+                                 "MaxSeats": "20",
+                                 "BestAvailableSeats": "0",
+                                 "SeatLayout": "Y",
+                                 "PriceDesc": "GOLD",
+                                 "SeatsAvail": "0",
+                                 "CategoryRange": "",
+                                 "intCategoryMaxTickets": "0"
+                              }
+                           ],
+                           "ShowDateCode": "20221114",
+                           "SessionUnpaidFlag": "N",
+                           "CoupleSeats": "N",
+                           "SessionUnpaidQuota": "0",
+                           "IsAtmosEnabled": "N",
+                           "MaxPrice": "190.78",
+                           "UpdatedMaxPrice": null,
+                           "Offers": null,
+                           "ApplicablePriceFilters": [
+                              "pf1",
+                              "pf2"
+                           ],
+                           "ShowTimeCode": "1505",
+                           "SessionSubTitle": "",
+                           "SessionSubTitleAcronym": ""
+                        },
+                        {
+                           "ShowDateTime": "202211141600",
+                           "CategoryRange": "",
+                           "Attributes": "ATMOS",
+                           "ApplicableTimeFilters": [
+                              "tf3"
+                           ],
+                           "MinPrice": "60.12",
+                           "UpdatedMinPrice": null,
+                           "SessionCopQuota": "0",
+                           "SessionCodFlag": "N",
+                           "CutOffDateTime": "202211141600",
+                           "ChildSeats": "N",
+                           "BestAvailableSeats": 0,
+                           "CutOffFlag": "1",
+                           "SessionCodQuota": "0",
+                           "SessionId": "13791",
+                           "BestBuy": "",
+                           "SessionCopFlag": "N",
+                           "Availability": "A",
+                           "AvailStatus": "",
+                           "ShowTime": "04:00 PM",
+                           "SessionPopUpDesc": "",
+                           "Categories": [
+                              {
+                                 "PercentAvail": "60",
+                                 "PriceCode": "0013",
+                                 "AdditionalData": "",
+                                 "CurPrice": "60.12",
+                                 "UpdatedPrice": null,
+                                 "AreaCatCode": "0000000005",
+                                 "AvailStatus": "",
+                                 "MaxSeats": "38",
+                                 "BestAvailableSeats": "0",
+                                 "SeatLayout": "Y",
+                                 "PriceDesc": "SPECIAL",
+                                 "SeatsAvail": "23",
+                                 "CategoryRange": "",
+                                 "intCategoryMaxTickets": "10"
+                              },
+                              {
+                                 "PercentAvail": "95",
+                                 "PriceCode": "0007",
+                                 "AdditionalData": "",
+                                 "CurPrice": "190.78",
+                                 "UpdatedPrice": null,
+                                 "AreaCatCode": "0000000004",
+                                 "AvailStatus": "",
+                                 "MaxSeats": "276",
+                                 "BestAvailableSeats": "0",
+                                 "SeatLayout": "Y",
+                                 "PriceDesc": "EXECUTIVE",
+                                 "SeatsAvail": "264",
+                                 "CategoryRange": "",
+                                 "intCategoryMaxTickets": "10"
+                              },
+                              {
+                                 "PercentAvail": "0",
+                                 "PriceCode": "0001",
+                                 "AdditionalData": "",
+                                 "CurPrice": "190.78",
+                                 "UpdatedPrice": null,
+                                 "AreaCatCode": "0000000002",
+                                 "AvailStatus": "",
+                                 "MaxSeats": "20",
+                                 "BestAvailableSeats": "0",
+                                 "SeatLayout": "Y",
+                                 "PriceDesc": "GOLD",
+                                 "SeatsAvail": "0",
+                                 "CategoryRange": "",
+                                 "intCategoryMaxTickets": "0"
+                              }
+                           ],
+                           "ShowDateCode": "20221114",
+                           "SessionUnpaidFlag": "N",
+                           "CoupleSeats": "N",
+                           "SessionUnpaidQuota": "0",
+                           "IsAtmosEnabled": "N",
+                           "MaxPrice": "190.78",
+                           "UpdatedMaxPrice": null,
+                           "Offers": null,
+                           "ApplicablePriceFilters": [
+                              "pf1",
+                              "pf2"
+                           ],
+                           "ShowTimeCode": "1600",
+                           "SessionSubTitle": "",
+                           "SessionSubTitleAcronym": ""
+                        },
+                        {
+                           "ShowDateTime": "202211141845",
+                           "CategoryRange": "",
+                           "Attributes": "ATMOS",
+                           "ApplicableTimeFilters": [
+                              "tf3"
+                           ],
+                           "MinPrice": "60.12",
+                           "UpdatedMinPrice": null,
+                           "SessionCopQuota": "0",
+                           "SessionCodFlag": "N",
+                           "CutOffDateTime": "202211141845",
+                           "ChildSeats": "N",
+                           "BestAvailableSeats": 0,
+                           "CutOffFlag": "1",
+                           "SessionCodQuota": "0",
+                           "SessionId": "13796",
+                           "BestBuy": "",
+                           "SessionCopFlag": "N",
+                           "Availability": "A",
+                           "AvailStatus": "",
+                           "ShowTime": "06:45 PM",
+                           "SessionPopUpDesc": "",
+                           "Categories": [
+                              {
+                                 "PercentAvail": "50",
+                                 "PriceCode": "0013",
+                                 "AdditionalData": "",
+                                 "CurPrice": "60.12",
+                                 "UpdatedPrice": null,
+                                 "AreaCatCode": "0000000005",
+                                 "AvailStatus": "",
+                                 "MaxSeats": "38",
+                                 "BestAvailableSeats": "0",
+                                 "SeatLayout": "Y",
+                                 "PriceDesc": "SPECIAL",
+                                 "SeatsAvail": "19",
+                                 "CategoryRange": "",
+                                 "intCategoryMaxTickets": "10"
+                              },
+                              {
+                                 "PercentAvail": "78",
+                                 "PriceCode": "0007",
+                                 "AdditionalData": "",
+                                 "CurPrice": "190.78",
+                                 "UpdatedPrice": null,
+                                 "AreaCatCode": "0000000004",
+                                 "AvailStatus": "",
+                                 "MaxSeats": "232",
+                                 "BestAvailableSeats": "0",
+                                 "SeatLayout": "Y",
+                                 "PriceDesc": "EXECUTIVE",
+                                 "SeatsAvail": "181",
+                                 "CategoryRange": "",
+                                 "intCategoryMaxTickets": "10"
+                              },
+                              {
+                                 "PercentAvail": "0",
+                                 "PriceCode": "0001",
+                                 "AdditionalData": "",
+                                 "CurPrice": "190.78",
+                                 "UpdatedPrice": null,
+                                 "AreaCatCode": "0000000002",
+                                 "AvailStatus": "",
+                                 "MaxSeats": "20",
+                                 "BestAvailableSeats": "0",
+                                 "SeatLayout": "Y",
+                                 "PriceDesc": "GOLD",
+                                 "SeatsAvail": "0",
+                                 "CategoryRange": "",
+                                 "intCategoryMaxTickets": "0"
+                              }
+                           ],
+                           "ShowDateCode": "20221114",
+                           "SessionUnpaidFlag": "N",
+                           "CoupleSeats": "N",
+                           "SessionUnpaidQuota": "0",
+                           "IsAtmosEnabled": "N",
+                           "MaxPrice": "190.78",
+                           "UpdatedMaxPrice": null,
+                           "Offers": null,
+                           "ApplicablePriceFilters": [
+                              "pf1",
+                              "pf2"
+                           ],
+                           "ShowTimeCode": "1845",
+                           "SessionSubTitle": "",
+                           "SessionSubTitleAcronym": ""
+                        },
+                        {
+                           "ShowDateTime": "202211141920",
+                           "CategoryRange": "",
+                           "Attributes": "ATMOS",
+                           "ApplicableTimeFilters": [
+                              "tf4"
+                           ],
+                           "MinPrice": "60.12",
+                           "UpdatedMinPrice": null,
+                           "SessionCopQuota": "0",
+                           "SessionCodFlag": "N",
+                           "CutOffDateTime": "202211141920",
+                           "ChildSeats": "N",
+                           "BestAvailableSeats": 0,
+                           "CutOffFlag": "1",
+                           "SessionCodQuota": "0",
+                           "SessionId": "13792",
+                           "BestBuy": "",
+                           "SessionCopFlag": "N",
+                           "Availability": "A",
+                           "AvailStatus": "",
+                           "ShowTime": "07:20 PM",
+                           "SessionPopUpDesc": "",
+                           "Categories": [
+                              {
+                                 "PercentAvail": "57",
+                                 "PriceCode": "0013",
+                                 "AdditionalData": "",
+                                 "CurPrice": "60.12",
+                                 "UpdatedPrice": null,
+                                 "AreaCatCode": "0000000005",
+                                 "AvailStatus": "",
+                                 "MaxSeats": "38",
+                                 "BestAvailableSeats": "0",
+                                 "SeatLayout": "Y",
+                                 "PriceDesc": "SPECIAL",
+                                 "SeatsAvail": "22",
+                                 "CategoryRange": "",
+                                 "intCategoryMaxTickets": "10"
+                              },
+                              {
+                                 "PercentAvail": "88",
+                                 "PriceCode": "0007",
+                                 "AdditionalData": "",
+                                 "CurPrice": "190.78",
+                                 "UpdatedPrice": null,
+                                 "AreaCatCode": "0000000004",
+                                 "AvailStatus": "",
+                                 "MaxSeats": "276",
+                                 "BestAvailableSeats": "0",
+                                 "SeatLayout": "Y",
+                                 "PriceDesc": "EXECUTIVE",
+                                 "SeatsAvail": "245",
+                                 "CategoryRange": "",
+                                 "intCategoryMaxTickets": "10"
+                              },
+                              {
+                                 "PercentAvail": "0",
+                                 "PriceCode": "0001",
+                                 "AdditionalData": "",
+                                 "CurPrice": "190.78",
+                                 "UpdatedPrice": null,
+                                 "AreaCatCode": "0000000002",
+                                 "AvailStatus": "",
+                                 "MaxSeats": "20",
+                                 "BestAvailableSeats": "0",
+                                 "SeatLayout": "Y",
+                                 "PriceDesc": "GOLD",
+                                 "SeatsAvail": "0",
+                                 "CategoryRange": "",
+                                 "intCategoryMaxTickets": "0"
+                              }
+                           ],
+                           "ShowDateCode": "20221114",
+                           "SessionUnpaidFlag": "N",
+                           "CoupleSeats": "N",
+                           "SessionUnpaidQuota": "0",
+                           "IsAtmosEnabled": "N",
+                           "MaxPrice": "190.78",
+                           "UpdatedMaxPrice": null,
+                           "Offers": null,
+                           "ApplicablePriceFilters": [
+                              "pf1",
+                              "pf2"
+                           ],
+                           "ShowTimeCode": "1920",
+                           "SessionSubTitle": "",
+                           "SessionSubTitleAcronym": ""
+                        },
+                        {
+                           "ShowDateTime": "202211142210",
+                           "CategoryRange": "",
+                           "Attributes": "ATMOS",
+                           "ApplicableTimeFilters": [
+                              "tf4"
+                           ],
+                           "MinPrice": "60.12",
+                           "UpdatedMinPrice": null,
+                           "SessionCopQuota": "0",
+                           "SessionCodFlag": "N",
+                           "CutOffDateTime": "202211142210",
+                           "ChildSeats": "N",
+                           "BestAvailableSeats": 0,
+                           "CutOffFlag": "1",
+                           "SessionCodQuota": "0",
+                           "SessionId": "13797",
+                           "BestBuy": "",
+                           "SessionCopFlag": "N",
+                           "Availability": "A",
+                           "AvailStatus": "",
+                           "ShowTime": "10:10 PM",
+                           "SessionPopUpDesc": "",
+                           "Categories": [
+                              {
+                                 "PercentAvail": "78",
+                                 "PriceCode": "0013",
+                                 "AdditionalData": "",
+                                 "CurPrice": "60.12",
+                                 "UpdatedPrice": null,
+                                 "AreaCatCode": "0000000005",
+                                 "AvailStatus": "",
+                                 "MaxSeats": "38",
+                                 "BestAvailableSeats": "0",
+                                 "SeatLayout": "Y",
+                                 "PriceDesc": "SPECIAL",
+                                 "SeatsAvail": "30",
+                                 "CategoryRange": "",
+                                 "intCategoryMaxTickets": "10"
+                              },
+                              {
+                                 "PercentAvail": "85",
+                                 "PriceCode": "0007",
+                                 "AdditionalData": "",
+                                 "CurPrice": "190.78",
+                                 "UpdatedPrice": null,
+                                 "AreaCatCode": "0000000004",
+                                 "AvailStatus": "",
+                                 "MaxSeats": "232",
+                                 "BestAvailableSeats": "0",
+                                 "SeatLayout": "Y",
+                                 "PriceDesc": "EXECUTIVE",
+                                 "SeatsAvail": "198",
+                                 "CategoryRange": "",
+                                 "intCategoryMaxTickets": "10"
+                              },
+                              {
+                                 "PercentAvail": "0",
+                                 "PriceCode": "0001",
+                                 "AdditionalData": "",
+                                 "CurPrice": "190.78",
+                                 "UpdatedPrice": null,
+                                 "AreaCatCode": "0000000002",
+                                 "AvailStatus": "",
+                                 "MaxSeats": "20",
+                                 "BestAvailableSeats": "0",
+                                 "SeatLayout": "Y",
+                                 "PriceDesc": "GOLD",
+                                 "SeatsAvail": "0",
+                                 "CategoryRange": "",
+                                 "intCategoryMaxTickets": "0"
+                              }
+                           ],
+                           "ShowDateCode": "20221114",
+                           "SessionUnpaidFlag": "N",
+                           "CoupleSeats": "N",
+                           "SessionUnpaidQuota": "0",
+                           "IsAtmosEnabled": "N",
+                           "MaxPrice": "190.78",
+                           "UpdatedMaxPrice": null,
+                           "Offers": null,
+                           "ApplicablePriceFilters": [
+                              "pf1",
+                              "pf2"
+                           ],
+                           "ShowTimeCode": "2210",
+                           "SessionSubTitle": "",
+                           "SessionSubTitleAcronym": ""
+                        },
+                        {
+                           "ShowDateTime": "202211142240",
+                           "CategoryRange": "",
+                           "Attributes": "ATMOS",
+                           "ApplicableTimeFilters": [
+                              "tf4"
+                           ],
+                           "MinPrice": "60.12",
+                           "UpdatedMinPrice": null,
+                           "SessionCopQuota": "0",
+                           "SessionCodFlag": "N",
+                           "CutOffDateTime": "202211142240",
+                           "ChildSeats": "N",
+                           "BestAvailableSeats": 0,
+                           "CutOffFlag": "1",
+                           "SessionCodQuota": "0",
+                           "SessionId": "13793",
+                           "BestBuy": "",
+                           "SessionCopFlag": "N",
+                           "Availability": "A",
+                           "AvailStatus": "",
+                           "ShowTime": "10:40 PM",
+                           "SessionPopUpDesc": "",
+                           "Categories": [
+                              {
+                                 "PercentAvail": "76",
+                                 "PriceCode": "0013",
+                                 "AdditionalData": "",
+                                 "CurPrice": "60.12",
+                                 "UpdatedPrice": null,
+                                 "AreaCatCode": "0000000005",
+                                 "AvailStatus": "",
+                                 "MaxSeats": "38",
+                                 "BestAvailableSeats": "0",
+                                 "SeatLayout": "Y",
+                                 "PriceDesc": "SPECIAL",
+                                 "SeatsAvail": "29",
+                                 "CategoryRange": "",
+                                 "intCategoryMaxTickets": "10"
+                              },
+                              {
+                                 "PercentAvail": "92",
+                                 "PriceCode": "0007",
+                                 "AdditionalData": "",
+                                 "CurPrice": "190.78",
+                                 "UpdatedPrice": null,
+                                 "AreaCatCode": "0000000004",
+                                 "AvailStatus": "",
+                                 "MaxSeats": "276",
+                                 "BestAvailableSeats": "0",
+                                 "SeatLayout": "Y",
+                                 "PriceDesc": "EXECUTIVE",
+                                 "SeatsAvail": "256",
+                                 "CategoryRange": "",
+                                 "intCategoryMaxTickets": "10"
+                              },
+                              {
+                                 "PercentAvail": "0",
+                                 "PriceCode": "0001",
+                                 "AdditionalData": "",
+                                 "CurPrice": "190.78",
+                                 "UpdatedPrice": null,
+                                 "AreaCatCode": "0000000002",
+                                 "AvailStatus": "",
+                                 "MaxSeats": "20",
+                                 "BestAvailableSeats": "0",
+                                 "SeatLayout": "Y",
+                                 "PriceDesc": "GOLD",
+                                 "SeatsAvail": "0",
+                                 "CategoryRange": "",
+                                 "intCategoryMaxTickets": "0"
+                              }
+                           ],
+                           "ShowDateCode": "20221114",
+                           "SessionUnpaidFlag": "N",
+                           "CoupleSeats": "N",
+                           "SessionUnpaidQuota": "0",
+                           "IsAtmosEnabled": "N",
+                           "MaxPrice": "190.78",
+                           "UpdatedMaxPrice": null,
+                           "Offers": null,
+                           "ApplicablePriceFilters": [
+                              "pf1",
+                              "pf2"
+                           ],
+                           "ShowTimeCode": "2240",
+                           "SessionSubTitle": "",
+                           "SessionSubTitleAcronym": ""
+                        }
+                     ],
+                     "IsMovieClubEnabled": "N",
+                     "EventIsAtmosEnabled": "N",
+                     "Event_strPopUpDesc": "",
+                     "EventLanguage": "Tamil",
+                     "EventUrl": "love-today",
+                     "ApplicablePriceFilters": [
+                        "pf1",
+                        "pf2"
+                     ]
+                  }
+               ],
+               "EventSynopsis": "",
+               "EventGenre": "",
+               "ApplicablePriceFilters": [
+                  "pf1",
+                  "pf2"
+               ],
+               "ApplicableTimeFilters": [
+                  "tf2",
+                  "tf3",
+                  "tf4"
+               ],
+               "EventCensor": "",
+               "EventGroup": "EG00342518"
+            },
+            {
+               "EventTitle": "Black Panther: Wakanda Forever",
+               "EventDuration": "",
+               "ChildEvents": [
+                  {
+                     "Event_strIsDefault": "N",
+                     "EventSyn": "",
+                     "EventRAT": "0",
+                     "EventSEQ": "50",
+                     "EventTrailer": "https://www.youtube.com/watch?v=RlOB3UALvrQ",
+                     "EventName": "Black Panther: Wakanda Forever (3D) - English",
+                     "EventGenre": {
+                        "Action": [],
+                        "Adventure": [],
+                        "Drama": [],
+                        "GenreMeta": []
+                     },
+                     "ApplicableTimeFilters": [
+                        "tf2",
+                        "tf3",
+                        "tf4"
+                     ],
+                     "EventCensor": "UA",
+                     "EventGroup": "EG00310693",
+                     "EventCode": "ET00342963",
+                     "EventImageCode": "black-panther-wakanda-forever-et00342963-1666336355",
+                     "EventDimension": "3D",
+                     "ShowTimes": [
+                        {
+                           "ShowDateTime": "202211141500",
+                           "CategoryRange": "",
+                           "Attributes": "ENG",
+                           "ApplicableTimeFilters": [
+                              "tf2"
+                           ],
+                           "MinPrice": "106.30",
+                           "UpdatedMinPrice": null,
+                           "SessionCopQuota": "0",
+                           "SessionCodFlag": "N",
+                           "CutOffDateTime": "202211141500",
+                           "ChildSeats": "N",
+                           "BestAvailableSeats": 0,
+                           "CutOffFlag": "1",
+                           "SessionCodQuota": "0",
+                           "SessionId": "13803",
+                           "BestBuy": "",
+                           "SessionCopFlag": "N",
+                           "Availability": "A",
+                           "AvailStatus": "",
+                           "ShowTime": "03:00 PM",
+                           "SessionPopUpDesc": "",
+                           "Categories": [
+                              {
+                                 "PercentAvail": "95",
+                                 "PriceCode": "0014",
+                                 "AdditionalData": "",
+                                 "CurPrice": "106.30",
+                                 "UpdatedPrice": null,
+                                 "AreaCatCode": "0000000005",
+                                 "AvailStatus": "",
+                                 "MaxSeats": "21",
+                                 "BestAvailableSeats": "0",
+                                 "SeatLayout": "Y",
+                                 "PriceDesc": "3D SPECIAL",
+                                 "SeatsAvail": "20",
+                                 "CategoryRange": "",
+                                 "intCategoryMaxTickets": "10"
+                              },
+                              {
+                                 "PercentAvail": "89",
+                                 "PriceCode": "0006",
+                                 "AdditionalData": "",
+                                 "CurPrice": "251.46",
+                                 "UpdatedPrice": null,
+                                 "AreaCatCode": "0000000004",
+                                 "AvailStatus": "",
+                                 "MaxSeats": "190",
+                                 "BestAvailableSeats": "0",
+                                 "SeatLayout": "Y",
+                                 "PriceDesc": "3D EXECUTIVE",
+                                 "SeatsAvail": "170",
+                                 "CategoryRange": "",
+                                 "intCategoryMaxTickets": "10"
+                              }
+                           ],
+                           "ShowDateCode": "20221114",
+                           "SessionUnpaidFlag": "N",
+                           "CoupleSeats": "N",
+                           "SessionUnpaidQuota": "0",
+                           "IsAtmosEnabled": "N",
+                           "MaxPrice": "251.46",
+                           "UpdatedMaxPrice": null,
+                           "Offers": null,
+                           "ApplicablePriceFilters": [
+                              "pf2",
+                              "pf3"
+                           ],
+                           "ShowTimeCode": "1500",
+                           "SessionSubTitle": "",
+                           "SessionSubTitleAcronym": ""
+                        },
+                        {
+                           "ShowDateTime": "202211141835",
+                           "CategoryRange": "",
+                           "Attributes": "ENG",
+                           "ApplicableTimeFilters": [
+                              "tf3"
+                           ],
+                           "MinPrice": "106.30",
+                           "UpdatedMinPrice": null,
+                           "SessionCopQuota": "0",
+                           "SessionCodFlag": "N",
+                           "CutOffDateTime": "202211141835",
+                           "ChildSeats": "N",
+                           "BestAvailableSeats": 0,
+                           "CutOffFlag": "1",
+                           "SessionCodQuota": "0",
+                           "SessionId": "13804",
+                           "BestBuy": "",
+                           "SessionCopFlag": "N",
+                           "Availability": "A",
+                           "AvailStatus": "",
+                           "ShowTime": "06:35 PM",
+                           "SessionPopUpDesc": "",
+                           "Categories": [
+                              {
+                                 "PercentAvail": "85",
+                                 "PriceCode": "0014",
+                                 "AdditionalData": "",
+                                 "CurPrice": "106.30",
+                                 "UpdatedPrice": null,
+                                 "AreaCatCode": "0000000005",
+                                 "AvailStatus": "",
+                                 "MaxSeats": "21",
+                                 "BestAvailableSeats": "0",
+                                 "SeatLayout": "Y",
+                                 "PriceDesc": "3D SPECIAL",
+                                 "SeatsAvail": "18",
+                                 "CategoryRange": "",
+                                 "intCategoryMaxTickets": "10"
+                              },
+                              {
+                                 "PercentAvail": "98",
+                                 "PriceCode": "0006",
+                                 "AdditionalData": "",
+                                 "CurPrice": "251.46",
+                                 "UpdatedPrice": null,
+                                 "AreaCatCode": "0000000004",
+                                 "AvailStatus": "",
+                                 "MaxSeats": "190",
+                                 "BestAvailableSeats": "0",
+                                 "SeatLayout": "Y",
+                                 "PriceDesc": "3D EXECUTIVE",
+                                 "SeatsAvail": "188",
+                                 "CategoryRange": "",
+                                 "intCategoryMaxTickets": "10"
+                              }
+                           ],
+                           "ShowDateCode": "20221114",
+                           "SessionUnpaidFlag": "N",
+                           "CoupleSeats": "N",
+                           "SessionUnpaidQuota": "0",
+                           "IsAtmosEnabled": "N",
+                           "MaxPrice": "251.46",
+                           "UpdatedMaxPrice": null,
+                           "Offers": null,
+                           "ApplicablePriceFilters": [
+                              "pf2",
+                              "pf3"
+                           ],
+                           "ShowTimeCode": "1835",
+                           "SessionSubTitle": "",
+                           "SessionSubTitleAcronym": ""
+                        },
+                        {
+                           "ShowDateTime": "202211142205",
+                           "CategoryRange": "",
+                           "Attributes": "ENG",
+                           "ApplicableTimeFilters": [
+                              "tf4"
+                           ],
+                           "MinPrice": "106.30",
+                           "UpdatedMinPrice": null,
+                           "SessionCopQuota": "0",
+                           "SessionCodFlag": "N",
+                           "CutOffDateTime": "202211142205",
+                           "ChildSeats": "N",
+                           "BestAvailableSeats": 0,
+                           "CutOffFlag": "1",
+                           "SessionCodQuota": "0",
+                           "SessionId": "13805",
+                           "BestBuy": "",
+                           "SessionCopFlag": "N",
+                           "Availability": "A",
+                           "AvailStatus": "",
+                           "ShowTime": "10:05 PM",
+                           "SessionPopUpDesc": "",
+                           "Categories": [
+                              {
+                                 "PercentAvail": "52",
+                                 "PriceCode": "0014",
+                                 "AdditionalData": "",
+                                 "CurPrice": "106.30",
+                                 "UpdatedPrice": null,
+                                 "AreaCatCode": "0000000005",
+                                 "AvailStatus": "",
+                                 "MaxSeats": "21",
+                                 "BestAvailableSeats": "0",
+                                 "SeatLayout": "Y",
+                                 "PriceDesc": "3D SPECIAL",
+                                 "SeatsAvail": "11",
+                                 "CategoryRange": "",
+                                 "intCategoryMaxTickets": "10"
+                              },
+                              {
+                                 "PercentAvail": "98",
+                                 "PriceCode": "0006",
+                                 "AdditionalData": "",
+                                 "CurPrice": "251.46",
+                                 "UpdatedPrice": null,
+                                 "AreaCatCode": "0000000004",
+                                 "AvailStatus": "",
+                                 "MaxSeats": "190",
+                                 "BestAvailableSeats": "0",
+                                 "SeatLayout": "Y",
+                                 "PriceDesc": "3D EXECUTIVE",
+                                 "SeatsAvail": "188",
+                                 "CategoryRange": "",
+                                 "intCategoryMaxTickets": "10"
+                              }
+                           ],
+                           "ShowDateCode": "20221114",
+                           "SessionUnpaidFlag": "N",
+                           "CoupleSeats": "N",
+                           "SessionUnpaidQuota": "0",
+                           "IsAtmosEnabled": "N",
+                           "MaxPrice": "251.46",
+                           "UpdatedMaxPrice": null,
+                           "Offers": null,
+                           "ApplicablePriceFilters": [
+                              "pf2",
+                              "pf3"
+                           ],
+                           "ShowTimeCode": "2205",
+                           "SessionSubTitle": "",
+                           "SessionSubTitleAcronym": ""
+                        }
+                     ],
+                     "IsMovieClubEnabled": "N",
+                     "EventIsAtmosEnabled": "N",
+                     "Event_strPopUpDesc": "",
+                     "EventLanguage": "English",
+                     "EventUrl": "black-panther-wakanda-forever-3d",
+                     "ApplicablePriceFilters": [
+                        "pf2",
+                        "pf3"
+                     ]
+                  }
+               ],
+               "EventSynopsis": "",
+               "EventGenre": "",
+               "ApplicablePriceFilters": [
+                  "pf2",
+                  "pf3"
+               ],
+               "ApplicableTimeFilters": [
+                  "tf2",
+                  "tf3",
+                  "tf4"
+               ],
+               "EventCensor": "",
+               "EventGroup": "EG00310693"
+            },
+            {
+               "EventTitle": "Miral",
+               "EventDuration": "",
+               "ChildEvents": [
+                  {
+                     "Event_strIsDefault": "Y",
+                     "EventSyn": "",
+                     "EventRAT": "0",
+                     "EventSEQ": "50",
+                     "EventTrailer": "https://www.youtube.com/watch?v=H1sYpgFNqrc",
+                     "EventName": "Miral - Tamil",
+                     "EventGenre": {
+                        "Crime": [],
+                        "GenreMeta": [],
+                        "Thriller": []
+                     },
+                     "ApplicableTimeFilters": [
+                        "tf2"
+                     ],
+                     "EventCensor": "UA",
+                     "EventGroup": "EG00343378",
+                     "EventCode": "ET00344126",
+                     "EventImageCode": "miral-et00344126-1667902640",
+                     "EventDimension": "2D",
+                     "ShowTimes": [
+                        {
+                           "ShowDateTime": "202211141540",
+                           "CategoryRange": "",
+                           "Attributes": "",
+                           "ApplicableTimeFilters": [
+                              "tf2"
+                           ],
+                           "MinPrice": "60.12",
+                           "UpdatedMinPrice": null,
+                           "SessionCopQuota": "0",
+                           "SessionCodFlag": "N",
+                           "CutOffDateTime": "202211141540",
+                           "ChildSeats": "N",
+                           "BestAvailableSeats": 0,
+                           "CutOffFlag": "1",
+                           "SessionCodQuota": "0",
+                           "SessionId": "13799",
+                           "BestBuy": "",
+                           "SessionCopFlag": "N",
+                           "Availability": "A",
+                           "AvailStatus": "",
+                           "ShowTime": "03:40 PM",
+                           "SessionPopUpDesc": "",
+                           "Categories": [
+                              {
+                                 "PercentAvail": "75",
+                                 "PriceCode": "0013",
+                                 "AdditionalData": "",
+                                 "CurPrice": "60.12",
+                                 "UpdatedPrice": null,
+                                 "AreaCatCode": "0000000005",
+                                 "AvailStatus": "",
+                                 "MaxSeats": "20",
+                                 "BestAvailableSeats": "0",
+                                 "SeatLayout": "Y",
+                                 "PriceDesc": "SPECIAL",
+                                 "SeatsAvail": "15",
+                                 "CategoryRange": "",
+                                 "intCategoryMaxTickets": "10"
+                              },
+                              {
+                                 "PercentAvail": "100",
+                                 "PriceCode": "0007",
+                                 "AdditionalData": "",
+                                 "CurPrice": "190.78",
+                                 "UpdatedPrice": null,
+                                 "AreaCatCode": "0000000004",
+                                 "AvailStatus": "",
+                                 "MaxSeats": "190",
+                                 "BestAvailableSeats": "0",
+                                 "SeatLayout": "Y",
+                                 "PriceDesc": "EXECUTIVE",
+                                 "SeatsAvail": "190",
+                                 "CategoryRange": "",
+                                 "intCategoryMaxTickets": "10"
+                              }
+                           ],
+                           "ShowDateCode": "20221114",
+                           "SessionUnpaidFlag": "N",
+                           "CoupleSeats": "N",
+                           "SessionUnpaidQuota": "0",
+                           "IsAtmosEnabled": "N",
+                           "MaxPrice": "190.78",
+                           "UpdatedMaxPrice": null,
+                           "Offers": null,
+                           "ApplicablePriceFilters": [
+                              "pf1",
+                              "pf2"
+                           ],
+                           "ShowTimeCode": "1540",
+                           "SessionSubTitle": "",
+                           "SessionSubTitleAcronym": ""
+                        }
+                     ],
+                     "IsMovieClubEnabled": "N",
+                     "EventIsAtmosEnabled": "N",
+                     "Event_strPopUpDesc": "",
+                     "EventLanguage": "Tamil",
+                     "EventUrl": "miral",
+                     "ApplicablePriceFilters": [
+                        "pf1",
+                        "pf2"
+                     ]
+                  }
+               ],
+               "EventSynopsis": "",
+               "EventGenre": "",
+               "ApplicablePriceFilters": [
+                  "pf1",
+                  "pf2"
+               ],
+               "ApplicableTimeFilters": [
+                  "tf2"
+               ],
+               "EventCensor": "",
+               "EventGroup": "EG00343378"
+            },
+            {
+               "EventTitle": "Ponniyin Selvan - Part 1",
+               "EventDuration": "",
+               "ChildEvents": [
+                  {
+                     "Event_strIsDefault": "Y",
+                     "EventSyn": "",
+                     "EventRAT": "0",
+                     "EventSEQ": "50",
+                     "EventTrailer": "https://www.youtube.com/watch?v=D4qAQYlgZQs",
+                     "EventName": "Ponniyin Selvan - Part 1 - Tamil",
+                     "EventGenre": {
+                        "Action": [],
+                        "Adventure": [],
+                        "Drama": [],
+                        "GenreMeta": [],
+                        "Historical": []
+                     },
+                     "ApplicableTimeFilters": [
+                        "tf2"
+                     ],
+                     "EventCensor": "UA",
+                     "EventGroup": "EG00323512",
+                     "EventCode": "ET00323897",
+                     "EventImageCode": "ponniyin-selvan--part-1-et00323897-1664271205",
+                     "EventDimension": "2D",
+                     "ShowTimes": [
+                        {
+                           "ShowDateTime": "202211141540",
+                           "CategoryRange": "",
+                           "Attributes": "",
+                           "ApplicableTimeFilters": [
+                              "tf2"
+                           ],
+                           "MinPrice": "60.12",
+                           "UpdatedMinPrice": null,
+                           "SessionCopQuota": "0",
+                           "SessionCodFlag": "N",
+                           "CutOffDateTime": "202211141540",
+                           "ChildSeats": "N",
+                           "BestAvailableSeats": 0,
+                           "CutOffFlag": "1",
+                           "SessionCodQuota": "0",
+                           "SessionId": "13807",
+                           "BestBuy": "",
+                           "SessionCopFlag": "N",
+                           "Availability": "A",
+                           "AvailStatus": "",
+                           "ShowTime": "03:40 PM",
+                           "SessionPopUpDesc": "",
+                           "Categories": [
+                              {
+                                 "PercentAvail": "95",
+                                 "PriceCode": "0013",
+                                 "AdditionalData": "",
+                                 "CurPrice": "60.12",
+                                 "UpdatedPrice": null,
+                                 "AreaCatCode": "0000000005",
+                                 "AvailStatus": "",
+                                 "MaxSeats": "21",
+                                 "BestAvailableSeats": "0",
+                                 "SeatLayout": "Y",
+                                 "PriceDesc": "SPECIAL",
+                                 "SeatsAvail": "20",
+                                 "CategoryRange": "",
+                                 "intCategoryMaxTickets": "10"
+                              },
+                              {
+                                 "PercentAvail": "97",
+                                 "PriceCode": "0007",
+                                 "AdditionalData": "",
+                                 "CurPrice": "190.78",
+                                 "UpdatedPrice": null,
+                                 "AreaCatCode": "0000000004",
+                                 "AvailStatus": "",
+                                 "MaxSeats": "190",
+                                 "BestAvailableSeats": "0",
+                                 "SeatLayout": "Y",
+                                 "PriceDesc": "EXECUTIVE",
+                                 "SeatsAvail": "186",
+                                 "CategoryRange": "",
+                                 "intCategoryMaxTickets": "10"
+                              }
+                           ],
+                           "ShowDateCode": "20221114",
+                           "SessionUnpaidFlag": "N",
+                           "CoupleSeats": "N",
+                           "SessionUnpaidQuota": "0",
+                           "IsAtmosEnabled": "N",
+                           "MaxPrice": "190.78",
+                           "UpdatedMaxPrice": null,
+                           "Offers": null,
+                           "ApplicablePriceFilters": [
+                              "pf1",
+                              "pf2"
+                           ],
+                           "ShowTimeCode": "1540",
+                           "SessionSubTitle": "",
+                           "SessionSubTitleAcronym": ""
+                        }
+                     ],
+                     "IsMovieClubEnabled": "N",
+                     "EventIsAtmosEnabled": "N",
+                     "Event_strPopUpDesc": "",
+                     "EventLanguage": "Tamil",
+                     "EventUrl": "ponniyin-selvan-part-1",
+                     "ApplicablePriceFilters": [
+                        "pf1",
+                        "pf2"
+                     ]
+                  }
+               ],
+               "EventSynopsis": "",
+               "EventGenre": "",
+               "ApplicablePriceFilters": [
+                  "pf1",
+                  "pf2"
+               ],
+               "ApplicableTimeFilters": [
+                  "tf2"
+               ],
+               "EventCensor": "",
+               "EventGroup": "EG00323512"
+            },
+            {
+               "EventTitle": "Yashoda",
+               "EventDuration": "",
+               "ChildEvents": [
+                  {
+                     "Event_strIsDefault": "N",
+                     "EventSyn": "",
+                     "EventRAT": "0",
+                     "EventSEQ": "50",
+                     "EventTrailer": "https://www.youtube.com/watch?v=7rsRx_VtlQU",
+                     "EventName": "Yashoda (Tamil) - Tamil",
+                     "EventGenre": {
+                        "GenreMeta": [],
+                        "Sci-Fi": [],
+                        "Thriller": []
+                     },
+                     "ApplicableTimeFilters": [
+                        "tf3"
+                     ],
+                     "EventCensor": "UA",
+                     "EventGroup": "EG00322948",
+                     "EventCode": "ET00326127",
+                     "EventImageCode": "yashoda-et00326127-1666012793",
+                     "EventDimension": "2D",
+                     "ShowTimes": [
+                        {
+                           "ShowDateTime": "202211141850",
+                           "CategoryRange": "",
+                           "Attributes": "",
+                           "ApplicableTimeFilters": [
+                              "tf3"
+                           ],
+                           "MinPrice": "60.12",
+                           "UpdatedMinPrice": null,
+                           "SessionCopQuota": "0",
+                           "SessionCodFlag": "N",
+                           "CutOffDateTime": "202211141850",
+                           "ChildSeats": "N",
+                           "BestAvailableSeats": 0,
+                           "CutOffFlag": "1",
+                           "SessionCodQuota": "0",
+                           "SessionId": "13800",
+                           "BestBuy": "",
+                           "SessionCopFlag": "N",
+                           "Availability": "A",
+                           "AvailStatus": "",
+                           "ShowTime": "06:50 PM",
+                           "SessionPopUpDesc": "",
+                           "Categories": [
+                              {
+                                 "PercentAvail": "75",
+                                 "PriceCode": "0013",
+                                 "AdditionalData": "",
+                                 "CurPrice": "60.12",
+                                 "UpdatedPrice": null,
+                                 "AreaCatCode": "0000000005",
+                                 "AvailStatus": "",
+                                 "MaxSeats": "20",
+                                 "BestAvailableSeats": "0",
+                                 "SeatLayout": "Y",
+                                 "PriceDesc": "SPECIAL",
+                                 "SeatsAvail": "15",
+                                 "CategoryRange": "",
+                                 "intCategoryMaxTickets": "10"
+                              },
+                              {
+                                 "PercentAvail": "86",
+                                 "PriceCode": "0007",
+                                 "AdditionalData": "",
+                                 "CurPrice": "190.78",
+                                 "UpdatedPrice": null,
+                                 "AreaCatCode": "0000000004",
+                                 "AvailStatus": "",
+                                 "MaxSeats": "190",
+                                 "BestAvailableSeats": "0",
+                                 "SeatLayout": "Y",
+                                 "PriceDesc": "EXECUTIVE",
+                                 "SeatsAvail": "165",
+                                 "CategoryRange": "",
+                                 "intCategoryMaxTickets": "10"
+                              }
+                           ],
+                           "ShowDateCode": "20221114",
+                           "SessionUnpaidFlag": "N",
+                           "CoupleSeats": "N",
+                           "SessionUnpaidQuota": "0",
+                           "IsAtmosEnabled": "N",
+                           "MaxPrice": "190.78",
+                           "UpdatedMaxPrice": null,
+                           "Offers": null,
+                           "ApplicablePriceFilters": [
+                              "pf1",
+                              "pf2"
+                           ],
+                           "ShowTimeCode": "1850",
+                           "SessionSubTitle": "",
+                           "SessionSubTitleAcronym": ""
+                        }
+                     ],
+                     "IsMovieClubEnabled": "N",
+                     "EventIsAtmosEnabled": "N",
+                     "Event_strPopUpDesc": "",
+                     "EventLanguage": "Tamil",
+                     "EventUrl": "yashoda-tamil",
+                     "ApplicablePriceFilters": [
+                        "pf1",
+                        "pf2"
+                     ]
+                  }
+               ],
+               "EventSynopsis": "",
+               "EventGenre": "",
+               "ApplicablePriceFilters": [
+                  "pf1",
+                  "pf2"
+               ],
+               "ApplicableTimeFilters": [
+                  "tf3"
+               ],
+               "EventCensor": "",
+               "EventGroup": "EG00322948"
+            },
+            {
+               "EventTitle": "Sardar",
+               "EventDuration": "",
+               "ChildEvents": [
+                  {
+                     "Event_strIsDefault": "Y",
+                     "EventSyn": "",
+                     "EventRAT": "0",
+                     "EventSEQ": "50",
+                     "EventTrailer": "https://www.youtube.com/watch?v=J-d22HH7jE4",
+                     "EventName": "Sardar - Tamil",
+                     "EventGenre": {
+                        "Action": [],
+                        "GenreMeta": [],
+                        "Thriller": []
+                     },
+                     "ApplicableTimeFilters": [
+                        "tf4"
+                     ],
+                     "EventCensor": "UA",
+                     "EventGroup": "EG00310444",
+                     "EventCode": "ET00310546",
+                     "EventImageCode": "sardar-et00310546-1665572029",
+                     "EventDimension": "2D",
+                     "ShowTimes": [
+                        {
+                           "ShowDateTime": "202211141910",
+                           "CategoryRange": "",
+                           "Attributes": "",
+                           "ApplicableTimeFilters": [
+                              "tf4"
+                           ],
+                           "MinPrice": "60.12",
+                           "UpdatedMinPrice": null,
+                           "SessionCopQuota": "0",
+                           "SessionCodFlag": "N",
+                           "CutOffDateTime": "202211141910",
+                           "ChildSeats": "N",
+                           "BestAvailableSeats": 0,
+                           "CutOffFlag": "1",
+                           "SessionCodQuota": "0",
+                           "SessionId": "13808",
+                           "BestBuy": "",
+                           "SessionCopFlag": "N",
+                           "Availability": "A",
+                           "AvailStatus": "",
+                           "ShowTime": "07:10 PM",
+                           "SessionPopUpDesc": "",
+                           "Categories": [
+                              {
+                                 "PercentAvail": "85",
+                                 "PriceCode": "0013",
+                                 "AdditionalData": "",
+                                 "CurPrice": "60.12",
+                                 "UpdatedPrice": null,
+                                 "AreaCatCode": "0000000005",
+                                 "AvailStatus": "",
+                                 "MaxSeats": "21",
+                                 "BestAvailableSeats": "0",
+                                 "SeatLayout": "Y",
+                                 "PriceDesc": "SPECIAL",
+                                 "SeatsAvail": "18",
+                                 "CategoryRange": "",
+                                 "intCategoryMaxTickets": "10"
+                              },
+                              {
+                                 "PercentAvail": "96",
+                                 "PriceCode": "0007",
+                                 "AdditionalData": "",
+                                 "CurPrice": "190.78",
+                                 "UpdatedPrice": null,
+                                 "AreaCatCode": "0000000004",
+                                 "AvailStatus": "",
+                                 "MaxSeats": "190",
+                                 "BestAvailableSeats": "0",
+                                 "SeatLayout": "Y",
+                                 "PriceDesc": "EXECUTIVE",
+                                 "SeatsAvail": "183",
+                                 "CategoryRange": "",
+                                 "intCategoryMaxTickets": "10"
+                              }
+                           ],
+                           "ShowDateCode": "20221114",
+                           "SessionUnpaidFlag": "N",
+                           "CoupleSeats": "N",
+                           "SessionUnpaidQuota": "0",
+                           "IsAtmosEnabled": "N",
+                           "MaxPrice": "190.78",
+                           "UpdatedMaxPrice": null,
+                           "Offers": null,
+                           "ApplicablePriceFilters": [
+                              "pf1",
+                              "pf2"
+                           ],
+                           "ShowTimeCode": "1910",
+                           "SessionSubTitle": "",
+                           "SessionSubTitleAcronym": ""
+                        }
+                     ],
+                     "IsMovieClubEnabled": "N",
+                     "EventIsAtmosEnabled": "N",
+                     "Event_strPopUpDesc": "",
+                     "EventLanguage": "Tamil",
+                     "EventUrl": "sardar",
+                     "ApplicablePriceFilters": [
+                        "pf1",
+                        "pf2"
+                     ]
+                  }
+               ],
+               "EventSynopsis": "",
+               "EventGenre": "",
+               "ApplicablePriceFilters": [
+                  "pf1",
+                  "pf2"
+               ],
+               "ApplicableTimeFilters": [
+                  "tf4"
+               ],
+               "EventCensor": "",
+               "EventGroup": "EG00310444"
+            },
+            {
+               "EventTitle": "Jaya Jaya Jaya Jaya Hey",
+               "EventDuration": "",
+               "ChildEvents": [
+                  {
+                     "Event_strIsDefault": "Y",
+                     "EventSyn": "",
+                     "EventRAT": "0",
+                     "EventSEQ": "50",
+                     "EventTrailer": "https://www.youtube.com/watch?v=XMW466vCHk8",
+                     "EventName": "Jaya Jaya Jaya Jaya Hey - Malayalam",
+                     "EventGenre": {
+                        "Comedy": [],
+                        "Drama": [],
+                        "Family": [],
+                        "GenreMeta": []
+                     },
+                     "ApplicableTimeFilters": [
+                        "tf4"
+                     ],
+                     "EventCensor": "U",
+                     "EventGroup": "EG00341943",
+                     "EventCode": "ET00342643",
+                     "EventImageCode": "jaya-jaya-jaya-jaya-hey-et00342643-1666009997",
+                     "EventDimension": "2D",
+                     "ShowTimes": [
+                        {
+                           "ShowDateTime": "202211142155",
+                           "CategoryRange": "",
+                           "Attributes": "",
+                           "ApplicableTimeFilters": [
+                              "tf4"
+                           ],
+                           "MinPrice": "63.73",
+                           "UpdatedMinPrice": null,
+                           "SessionCopQuota": "0",
+                           "SessionCodFlag": "N",
+                           "CutOffDateTime": "202211142155",
+                           "ChildSeats": "N",
+                           "BestAvailableSeats": 0,
+                           "CutOffFlag": "1",
+                           "SessionCodQuota": "0",
+                           "SessionId": "13801",
+                           "BestBuy": "",
+                           "SessionCopFlag": "N",
+                           "Availability": "A",
+                           "AvailStatus": "",
+                           "ShowTime": "09:55 PM",
+                           "SessionPopUpDesc": "",
+                           "Categories": [
+                              {
+                                 "PercentAvail": "100",
+                                 "PriceCode": "0013",
+                                 "AdditionalData": "",
+                                 "CurPrice": "63.73",
+                                 "UpdatedPrice": null,
+                                 "AreaCatCode": "0000000005",
+                                 "AvailStatus": "",
+                                 "MaxSeats": "20",
+                                 "BestAvailableSeats": "0",
+                                 "SeatLayout": "Y",
+                                 "PriceDesc": "SPECIAL",
+                                 "SeatsAvail": "20",
+                                 "CategoryRange": "",
+                                 "intCategoryMaxTickets": "10"
+                              },
+                              {
+                                 "PercentAvail": "100",
+                                 "PriceCode": "0007",
+                                 "AdditionalData": "",
+                                 "CurPrice": "202.84",
+                                 "UpdatedPrice": null,
+                                 "AreaCatCode": "0000000004",
+                                 "AvailStatus": "",
+                                 "MaxSeats": "190",
+                                 "BestAvailableSeats": "0",
+                                 "SeatLayout": "Y",
+                                 "PriceDesc": "EXECUTIVE",
+                                 "SeatsAvail": "190",
+                                 "CategoryRange": "",
+                                 "intCategoryMaxTickets": "10"
+                              }
+                           ],
+                           "ShowDateCode": "20221114",
+                           "SessionUnpaidFlag": "N",
+                           "CoupleSeats": "N",
+                           "SessionUnpaidQuota": "0",
+                           "IsAtmosEnabled": "N",
+                           "MaxPrice": "202.84",
+                           "UpdatedMaxPrice": null,
+                           "Offers": null,
+                           "ApplicablePriceFilters": [
+                              "pf1",
+                              "pf3"
+                           ],
+                           "ShowTimeCode": "2155",
+                           "SessionSubTitle": "",
+                           "SessionSubTitleAcronym": ""
+                        }
+                     ],
+                     "IsMovieClubEnabled": "N",
+                     "EventIsAtmosEnabled": "N",
+                     "Event_strPopUpDesc": "",
+                     "EventLanguage": "Malayalam",
+                     "EventUrl": "jaya-jaya-jaya-jaya-hey",
+                     "ApplicablePriceFilters": [
+                        "pf1",
+                        "pf3"
+                     ]
+                  }
+               ],
+               "EventSynopsis": "",
+               "EventGenre": "",
+               "ApplicablePriceFilters": [
+                  "pf1",
+                  "pf3"
+               ],
+               "ApplicableTimeFilters": [
+                  "tf4"
+               ],
+               "EventCensor": "",
+               "EventGroup": "EG00341943"
+            },
+            {
+               "EventTitle": "Kantara (Tamil)",
+               "EventDuration": "",
+               "ChildEvents": [
+                  {
+                     "Event_strIsDefault": "Y",
+                     "EventSyn": "",
+                     "EventRAT": "0",
+                     "EventSEQ": "50",
+                     "EventTrailer": "https://www.youtube.com/watch?v=fPgkWwOEWHY",
+                     "EventName": "Kantara (Tamil) - Tamil",
+                     "EventGenre": {
+                        "Adventure": [],
+                        "Drama": [],
+                        "GenreMeta": [],
+                        "Thriller": []
+                     },
+                     "ApplicableTimeFilters": [
+                        "tf4"
+                     ],
+                     "EventCensor": "UA",
+                     "EventGroup": "EG00341481",
+                     "EventCode": "ET00342169",
+                     "EventImageCode": "kantara-tamil-et00342169-1665647325",
+                     "EventDimension": "2D",
+                     "ShowTimes": [
+                        {
+                           "ShowDateTime": "202211142235",
+                           "CategoryRange": "",
+                           "Attributes": "",
+                           "ApplicableTimeFilters": [
+                              "tf4"
+                           ],
+                           "MinPrice": "60.12",
+                           "UpdatedMinPrice": null,
+                           "SessionCopQuota": "0",
+                           "SessionCodFlag": "N",
+                           "CutOffDateTime": "202211142235",
+                           "ChildSeats": "N",
+                           "BestAvailableSeats": 0,
+                           "CutOffFlag": "1",
+                           "SessionCodQuota": "0",
+                           "SessionId": "13809",
+                           "BestBuy": "",
+                           "SessionCopFlag": "N",
+                           "Availability": "A",
+                           "AvailStatus": "",
+                           "ShowTime": "10:35 PM",
+                           "SessionPopUpDesc": "",
+                           "Categories": [
+                              {
+                                 "PercentAvail": "95",
+                                 "PriceCode": "0013",
+                                 "AdditionalData": "",
+                                 "CurPrice": "60.12",
+                                 "UpdatedPrice": null,
+                                 "AreaCatCode": "0000000005",
+                                 "AvailStatus": "",
+                                 "MaxSeats": "21",
+                                 "BestAvailableSeats": "0",
+                                 "SeatLayout": "Y",
+                                 "PriceDesc": "SPECIAL",
+                                 "SeatsAvail": "20",
+                                 "CategoryRange": "",
+                                 "intCategoryMaxTickets": "10"
+                              },
+                              {
+                                 "PercentAvail": "100",
+                                 "PriceCode": "0007",
+                                 "AdditionalData": "",
+                                 "CurPrice": "190.78",
+                                 "UpdatedPrice": null,
+                                 "AreaCatCode": "0000000004",
+                                 "AvailStatus": "",
+                                 "MaxSeats": "190",
+                                 "BestAvailableSeats": "0",
+                                 "SeatLayout": "Y",
+                                 "PriceDesc": "EXECUTIVE",
+                                 "SeatsAvail": "190",
+                                 "CategoryRange": "",
+                                 "intCategoryMaxTickets": "10"
+                              }
+                           ],
+                           "ShowDateCode": "20221114",
+                           "SessionUnpaidFlag": "N",
+                           "CoupleSeats": "N",
+                           "SessionUnpaidQuota": "0",
+                           "IsAtmosEnabled": "N",
+                           "MaxPrice": "190.78",
+                           "UpdatedMaxPrice": null,
+                           "Offers": null,
+                           "ApplicablePriceFilters": [
+                              "pf1",
+                              "pf2"
+                           ],
+                           "ShowTimeCode": "2235",
+                           "SessionSubTitle": "",
+                           "SessionSubTitleAcronym": ""
+                        }
+                     ],
+                     "IsMovieClubEnabled": "N",
+                     "EventIsAtmosEnabled": "N",
+                     "Event_strPopUpDesc": "",
+                     "EventLanguage": "Tamil",
+                     "EventUrl": "kantara-tamil",
+                     "ApplicablePriceFilters": [
+                        "pf1",
+                        "pf2"
+                     ]
+                  }
+               ],
+               "EventSynopsis": "",
+               "EventGenre": "",
+               "ApplicablePriceFilters": [
+                  "pf1",
+                  "pf2"
+               ],
+               "ApplicableTimeFilters": [
+                  "tf4"
+               ],
+               "EventCensor": "",
+               "EventGroup": "EG00341481"
+            }
+         ],
+         "Venues": {
+            "CouponIsAllowed": "N",
+            "Message": "1. As per the State Government Guidelines , In order to enter the cinema, it`s mandatory to have a Covid 19 vaccine (One dose at least) for guest above 18+. Vaccination certificate will be verified at the cinema entry, no entry will be  permitted for non-vaccinated guest and tickets will not be refunded.<br>2. For your own safety, wearing face masks is compulsory for entering the cinema premises.<br>\n3. If a guest consumes alcohol or drugs will not be allowed inside the cinema and tickets are not refundable.<br>\n4. Children above the age of 3 years require tickets for U or U/A rated movies.<br>\n5. Smoking and drinking alcohol and chewing of pan are strictly prohibited. Intoxicated persons (as determined by our staff) will not be admitted.<br>6. Outside food and beverages are not allowed.<br>\n7. Guests aged fewer than 18 will not be allowed in A rated movies.<br>\n8. Tickets once purchased cannot be cancelled, exchanged or refunded.<br>\n9. Decision(s) taken by Miraj, shall be final and binding, rights of admission reserved.<br>\n10. 3D glass usage fee is non  refundable.<br>\n11. We regret the inconvenience caused by security checks. We request your full cooperation.<br>\n12. The management will not be responsible  for the loss or damage of any personal property.<br>13. <font color=``ff0000``> For more info & TnC of ``CELEBRATION COMBO OFFER``please refer to the offer page.<br></font>",
+            "ShowSeatNo": "Y",
+            "VenueCode": "SRMJ",
+            "TicketCancellation": "Y",
+            "VenueInfoMessage": "Cancellation Available",
+            "SocialDistancingCompliant": "N",
+            "UnpaidReleaseCutOff": "1 hr ",
+            "VenueLegends": ";REC;CAR;FOD;",
+            "UnpaidReleaseCutOffJson": [],
+            "CinemaCodFlag": "N",
+            "CinemaIsOnlineNoTransactionMsg": "",
+            "IsFullLayout": "Y",
+            "VenueAdd": "Sri Hari Mills, Kamachipuram, Trichy road, Near Ondipudur Flyover, Coimbatore, Tamil Nadu 641016, India",
+            "VenueApp": "VS",
+            "MessageType": "",
+            "VenueLat": "11.0026",
+            "CodReleaseCutOff": "10 hrs ",
+            "IsFoodSales": "Y",
+            "VenueName": "SRK Miraj Cinemas: Coimbatore",
+            "VenueCompName": "Miraj Cinemas",
+            "VenueComp": "MIRC",
+            "ETicket": "Y",
+            "CinemaUnpaidFlag": "N",
+            "CinemaCopFlag": "N",
+            "BestSeatsAvail": "N",
+            "VenueLong": "77.0606",
+            "CopReleaseCutOff": "3 hrs ",
+            "MessageTitle": "",
+            "MTicket": "Y",
+            "CoupleSeats": "N",
+            "UnpaidMaxQuantity": "4",
+            "IsFullSeatLayout": "Y",
+            "IsNewCinema": "N",
+            "IsMultiplex": "Y",
+            "isVenueDown": false,
+            "PopUpDescription": "",
+            "faqContent": {
+               "heading": "",
+               "content": null
+            },
+            "SeatSelector": null,
+            "eticket": "",
+            "mticket": "",
+            "seatLegends": [
+               {
+                  "status": "2",
+                  "label": "Sold",
+                  "infoText": "",
+                  "selectionText": ""
+               },
+               {
+                  "status": "1",
+                  "label": "Available",
+                  "infoText": "",
+                  "selectionText": ""
+               },
+               {
+                  "status": "88",
+                  "label": "Selected",
+                  "infoText": "",
+                  "selectionText": ""
+               }
+            ]
+         },
+         "TimeFilters": [
+            {
+               "StartTime": "12:00",
+               "StartTimeText": "12:00 PM",
+               "EndTime": "15:59",
+               "EndTimeText": "3:59 PM",
+               "Key": "tf2",
+               "Title": "Afternoon",
+               "PriceFilters": [
+                  "pf1",
+                  "pf2",
+                  "pf3"
+               ],
+               "isDisabled": false,
+               "isPermanentlyDisabled": false
+            },
+            {
+               "StartTime": "16:00",
+               "StartTimeText": "4:00 PM",
+               "EndTime": "18:59",
+               "EndTimeText": "6:59 PM",
+               "Key": "tf3",
+               "Title": "Evening",
+               "PriceFilters": [
+                  "pf1",
+                  "pf2",
+                  "pf3"
+               ],
+               "isDisabled": false,
+               "isPermanentlyDisabled": false
+            },
+            {
+               "StartTime": "19:00",
+               "StartTimeText": "7:00 PM",
+               "EndTime": "23:59",
+               "EndTimeText": "11:59 PM",
+               "Key": "tf4",
+               "Title": "Night",
+               "PriceFilters": [
+                  "pf1",
+                  "pf2",
+                  "pf3"
+               ],
+               "isDisabled": false,
+               "isPermanentlyDisabled": false
+            },
+            {
+               "StartTime": "00:00",
+               "StartTimeText": "12:00 AM",
+               "EndTime": "11:59",
+               "EndTimeText": "11:59 AM",
+               "Key": "tf1",
+               "Title": "Morning",
+               "PriceFilters": [],
+               "isDisabled": true,
+               "isPermanentlyDisabled": true
+            }
+         ],
+         "PriceFilters": [
+            {
+               "Min": "0",
+               "Max": "100",
+               "Key": "pf1",
+               "TimeFilters": [
+                  "tf2",
+                  "tf3",
+                  "tf4"
+               ],
+               "isDisabled": false
+            },
+            {
+               "Min": "101",
+               "Max": "200",
+               "Key": "pf2",
+               "TimeFilters": [
+                  "tf2",
+                  "tf3",
+                  "tf4"
+               ],
+               "isDisabled": false
+            },
+            {
+               "Min": "201",
+               "Max": "300",
+               "Key": "pf3",
+               "TimeFilters": [
+                  "tf2",
+                  "tf3",
+                  "tf4"
+               ],
+               "isDisabled": false
+            }
+         ]
+      }
+   ],
+   "ShowDatesArray": [
+      {
+         "DispDate": "Today, 14 Nov",
+         "DateCode": "20221114",
+         "Day": "Monday",
+         "Month": "November",
+         "Date": "14",
+         "Year": "2022",
+         "isDisabled": false
+      },
+      {
+         "DispDate": "Tomorrow, 15 Nov",
+         "DateCode": "20221115",
+         "Day": "Tuesday",
+         "Month": "November",
+         "Date": "15",
+         "Year": "2022",
+         "isDisabled": false
+      },
+      {
+         "DispDate": "Wednesday, 16 Nov",
+         "DateCode": "20221116",
+         "Day": "Wednesday",
+         "Month": "November",
+         "Date": "16",
+         "Year": "2022",
+         "isDisabled": false
+      },
+      {
+         "DispDate": "Thursday, 17 Nov",
+         "DateCode": "20221117",
+         "Day": "Thursday",
+         "Month": "November",
+         "Date": "17",
+         "Year": "2022",
+         "isDisabled": false
+      },
+      {
+         "DispDate": "Friday, 18 Nov",
+         "DateCode": "20221118",
+         "Day": "Friday",
+         "Month": "November",
+         "Date": "18",
+         "Year": "2022",
+         "isDisabled": true
+      },
+      {
+         "DispDate": "Saturday, 19 Nov",
+         "DateCode": "20221119",
+         "Day": "Saturday",
+         "Month": "November",
+         "Date": "19",
+         "Year": "2022",
+         "isDisabled": true
+      },
+      {
+         "DispDate": "Sunday, 20 Nov",
+         "DateCode": "20221120",
+         "Day": "Sunday",
+         "Month": "November",
+         "Date": "20",
+         "Year": "2022",
+         "isDisabled": true
+      }
+   ],
+   "AllShowDatesDisabled": false,
+   "DownCinemasMessage": "Bookings for this cinema are not going through due to a connectivity issue with cinema. Please try again later or explore other cinemas.",
+   "BottomMessageWidget": {
+      "redirectionCTA": {}
+   },
+   "SeatLayoutMessageWidget": {
+      "label": "",
+      "imageURL": "",
+      "isDismissable": false
+   },
+   "DownCinemasTitle": "Sorry!"
+}
